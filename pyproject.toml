@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "optireader_SujithChristopher"
+name = "optireader"
 version = "0.0.1"
 authors = [
   { name="Sujith Christopher", email="chrisbon95@gmail.com" },
